@@ -19,7 +19,7 @@ steps:
 
 5. Call Function
 
-using => python food_order.py
+Run using => python food_order.py
 
 
  
